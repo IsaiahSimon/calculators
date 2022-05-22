@@ -1,0 +1,22 @@
+{
+  "name": "calculators",
+  "version": "1.0.0",
+  "description": "A full-stack web application full of specialized calculators.",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsaiahSimon/calculators.git"
+  },
+  "author": "Isaiah Simon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IsaiahSimon/calculators/issues"
+  },
+  "homepage": "https://github.com/IsaiahSimon/calculators#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
